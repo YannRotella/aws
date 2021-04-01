@@ -24,6 +24,8 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Critères de notation
   - URLs
   - HTML (balisage en général)
+  - [Slides 1](docs/cours0.pdf)
+  - [Slides 2](docs/cours1.pdf)
 
 #### 8 avril: Suite Web Statique
   - CSS
@@ -49,11 +51,11 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Certificats
   - Fonctions de hachages cryptographiques
 
-#### 13 mai: Thomas Rousseau (La crypto ne fait pas tout)
+#### 20 mai: Thomas Rousseau (La crypto ne fait pas tout)
 
 
 
-#### 20 mai: Journée de soutenances 
+#### Lundi 24 mai: Journée de soutenances 
 Présentiel ou distanciel en fonction de la situation sanitaire
 
 
