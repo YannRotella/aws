@@ -23,13 +23,14 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Explication de ce qui est attendu. [Descriptif précis](docs/description_cours.pdf)
   - Critères de notation
   - URLs
+  - CSS
+  - BoxModel
   - HTML (balisage en général)
   - [Slides 1](docs/cours0.pdf)
   - [Slides 2](docs/cours1.pdf)
 
+
 #### 8 avril: Suite Web Statique
-  - CSS
-  - BoxModel
   - JavaScript
   - DOM
 
