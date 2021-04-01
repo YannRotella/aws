@@ -70,7 +70,7 @@ Cette liste sera mise à jour au fur et à mesure du cours.
 
 
 
-## Groupes préliminaires
+## Groupes
 
 1
 - 1 22010447 ABBES Mohamed nassim
@@ -92,7 +92,7 @@ Cette liste sera mise à jour au fur et à mesure du cours.
 
 4
 - 20 21603201 RAMAROMANANATOANDRO THOMAS
-- 14 21923291 HU XUNYUE
+- 4 21501795 ANTHENE NICOLAS
 - 23 22001154 WU junyi
 - 24 21922702 YOUSFI YACINE
 
@@ -129,12 +129,13 @@ Cette liste sera mise à jour au fur et à mesure du cours.
 10
 - 5 219192ABOU GHILES
 - 8 22001994 BOURBONNOT Marc
+- 10 22001713 COULON Clément
 - 6 22013716 BAH Saikou
 - 6 22005863 BELOUBAD Othmane
 
 11
-- 4 21501795 ANTHENE NICOLAS
 - 4 217074LI AHMEDI MYCIPSSA
 - 9 21705622 CHIKAR Soufiane
-- 10 22001713 COULON Clément
 - 19 21705482 RAKOTOMANGA ANDRIANINA
+- 14 21923291 HU XUNYUE
+
