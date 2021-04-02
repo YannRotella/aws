@@ -81,9 +81,20 @@ Pour plus de détails, se référer à la [grille évaluatrice](docs/evaluation.
 ## Bibliographie et liens utiles
 Cette liste sera mise à jour au fur et à mesure du cours.
 
-[Roadmap](https://roadmap.sh/)
-
-
+  - Pour démarrer: [Roadmap](https://roadmap.sh/)
+  - [RFC URL](https://tools.ietf.org/html/rfc3986)
+  - [L'informatique en francais](https://www.culture.gouv.fr/Sites-thematiques/Langue-francaise-et-langues-de-France)
+  - [Le site de W3 school](https://www.w3schools.com/)
+  - Le [validateur](https://validator.w3.org/) du W3
+  - [CSS validateur](https://validator.w3.org/checklink)
+  - [HTML - mozilla](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+  - Formulaires HTML: [MDN](https://developer.mozilla.org/fr/docs/Learn/Forms) [W3](https://www.w3schools.com/html/html_forms.asp)
+  - Règles CSS: [spécificité](https://www.w3.org/TR/selectors/#specificity) [RefMDN](https://developer.mozilla.org/fr/docs/Web/CSS/Reference) [w3](https://www.w3schools.com/cssref/default.asp)
+  - Le [DevTools Guide](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+  - Positionnement en CSS: [Pos](https://developer.mozilla.org/fr/docs/Web/CSS/position) et [Float](https://developer.mozilla.org/fr/docs/Web/CSS/float)
+  - [FlexBox](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)
+  - Grid CSS: [lien](https://blogs.infinitesquare.com/posts/web/creer-une-mise-en-page-avec-css-grid-layout) [MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
+  - [media queries](https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries/Using_media_queries) 
 
 ## Groupes
 
