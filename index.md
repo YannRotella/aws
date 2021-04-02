@@ -30,20 +30,26 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - [Slides 2](docs/cours1.pdf)
 
 
-#### 8 avril: Suite Web Statique
+#### 8 avril: Scripting Client et Communication 1
   - JavaScript
   - DOM
+  - HTTP
+  - Anatomie d'une app Web
 
 #### 15 avril: Web actuel
-  - Protocole HTTP
-  - Frameworks (Node.JS)
-  - Templates
+  - Anatomie application détails
+  - Serveur - client
+  - Modèle Vue Controlleur
+  - Nunjucks et templates
+  - Sessions 
+  - Cookies
+  - DB
 
 #### 22 avril: Cours de Maxime Arbisa
   - Web avancé
   - frameworks actuels 
   - Comparaisons techno
-  - Sockets ?
+  - Sockets 
   - Outils
 
 #### 6 mai: Sécurité Web: application de la crypto
@@ -62,6 +68,14 @@ Présentiel ou distanciel en fonction de la situation sanitaire
 
 
 ## Modalités d'évaluation :
+
+Contrôle Continu réparti comme suit: 
+  - CC individuel, sur 4, sur chaque rôle par semaine (16)
+  - CC commun, pitch, travail sur 8 par semaine (32)
+  - Rapport et code final, commun (16)
+  - Soutenance Finale (8 indiv + 12 commun)
+
+Pour plus de détails, se référer à la [grille évaluatrice](docs/evaluation.pdf)
 
 
 ## Bibliographie et liens utiles
