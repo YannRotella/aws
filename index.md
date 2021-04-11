@@ -32,25 +32,23 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
 
 #### 8 avril: Scripting Client et Communication 1
   - JavaScript
-  - DOM
+  - DOM [Slides](docs/cours2-1.pdf)
   - HTTP
-  - Anatomie d'une app Web
+  - Anatomie d'une app Web [Slides](docs/cours1-1.pdf)
+  - Travailler en groupe [Slides](docs/presentation.pdf)
+
 
 #### 15 avril: Web actuel
-  - Anatomie application détails
-  - Serveur - client
-  - Modèle Vue Controlleur
-  - Nunjucks et templates
-  - Sessions 
-  - Cookies
-  - DB
+  - Templating
+  - Cookies, Storage, DB: Persistent sessions
+  - JS async, await, promises
+  - Sockets
+  - JSON format
 
 #### 22 avril: Cours de Maxime Arbisa
-  - Web avancé
-  - frameworks actuels 
-  - Comparaisons techno
-  - Sockets 
-  - Outils
+  - Prod, docker, container
+  - engine proxy
+  - autres
 
 #### 6 mai: Sécurité Web: application de la crypto
   - HTTPS
@@ -80,7 +78,7 @@ Pour plus de détails, se référer à la [grille évaluatrice](docs/evaluation.
 
 ## Bibliographie et liens utiles
 Cette liste sera mise à jour au fur et à mesure du cours.
-
+  - Le site du Cours de [Luca de Feo](http://defeo.lu/aws/)
   - Pour démarrer: [Roadmap](https://roadmap.sh/)
   - [RFC URL](https://tools.ietf.org/html/rfc3986)
   - [L'informatique en francais](https://www.culture.gouv.fr/Sites-thematiques/Langue-francaise-et-langues-de-France)
@@ -94,7 +92,28 @@ Cette liste sera mise à jour au fur et à mesure du cours.
   - Positionnement en CSS: [Pos](https://developer.mozilla.org/fr/docs/Web/CSS/position) et [Float](https://developer.mozilla.org/fr/docs/Web/CSS/float)
   - [FlexBox](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)
   - Grid CSS: [lien](https://blogs.infinitesquare.com/posts/web/creer-une-mise-en-page-avec-css-grid-layout) [MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
-  - [media queries](https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries/Using_media_queries) 
+  - [media queries](https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries/Using_media_queries)
+  - HTTP, [Wiki](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [MDN_http](https://developer.mozilla.org/en-US/docs/Web/HTTP) 
+  - HTTP2, liens utiles: [kinsta](https://kinsta.com/fr/apprendre/http2/), [node](https://nodejs.org/api/http2.html#http2_http_2), [node compatibilité](https://nodejs.org/api/http2.html#http2_compatibility_api), [node2](https://webapplog.com/http2-node/)
+  - HTTP3, pour aller plus loin: [w3techs](https://w3techs.com/technologies/comparison/ce-http2,ce-http3), [wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
+  - Un [script malveillant](https://homputersecurity.com/2016/10/12/le-malware-code-en-javascript-qui-eteint-votre-ordinateur/)
+  - [Whois](https://www.afnic.fr/noms-de-domaine/tout-savoir/whois-trouver-un-nom-de-domaine/)
+  - [Event-MDN](https://developer.mozilla.org/fr/docs/Web/API/Event)
+  - [DOM-MDN](https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model)
+  - [Unobtrusive JS](https://en.wikipedia.org/wiki/Unobtrusive_JavaScript)
+  - [Eloquent JS](https://eloquentjavascript.net/)
+  - [JavaScript-MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
+  - [JS-W3](https://www.w3schools.com/js/)
+  - [React](https://fr.wikipedia.org/wiki/React)
+  - [Angular](https://fr.wikipedia.org/wiki/AngularJS)
+  - [Routes-Express](https://expressjs.com/fr/guide/routing.html)
+  - [Heroku](https://www.heroku.com/)
+  - [Modèle Vue Controlleur](https://fr.wikipedia.org/wiki/Mod%C3%A8le-vue-contr%C3%B4leur#Dans_les_applications_web)
+  - [Backend Frameworks](https://blog.back4app.com/backend-frameworks/)
+  - [Eloquent-Node](https://eloquentjavascript.net/20_node.html)
+  - [Express](https://expressjs.com/)
+  - [Node.js](https://nodejs.org/api/)
+  - [NodeSchool](https://nodeschool.io/)
 
 ## Groupes
 
