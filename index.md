@@ -115,6 +115,17 @@ Cette liste sera mise à jour au fur et à mesure du cours.
   - [Express](https://expressjs.com/)
   - [Node.js](https://nodejs.org/api/)
   - [NodeSchool](https://nodeschool.io/)
+  - [HTTP Authentification](https://fr.wikipedia.org/wiki/Authentification_HTTP)
+  - [Cookie](https://fr.wikipedia.org/wiki/Cookie_(informatique))
+  - [IndexedDB](https://developer.mozilla.org/fr/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB) [2](https://developer.mozilla.org/fr/docs/Web/API/IndexedDB_API#Asynchronous_API)
+  - [PHP Security](https://phpsecurity.readthedocs.io/en/latest/_articles/PHP-Security-Default-Vulnerabilities-Security-Omissions-And-Framing-Programmers.html)
+  - [Nujucks VS React](https://stackshare.io/stackups/nunjucks-vs-react)
+  - [Query Relational DB](https://towardsdatascience.com/5-ways-to-query-your-relational-db-using-javascript-d5499711fc7d)
+  - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/)
+  - [Knex](http://knexjs.org/)
+  - Async JS [W3](https://www.w3schools.com/js/js_async.asp) [Luca's Web course](http://defeo.lu/aws/lessons/async-js#)
+  - Promises [1](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Promise) et [2](https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/)
+  - [JSON](https://en.wikipedia.org/wiki/JSON)
 
 ## Groupes
 
