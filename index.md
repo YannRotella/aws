@@ -39,12 +39,12 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
 
 
 #### 15 avril: Web actuel
-  - HTTP, state simulation [Tableau 1](docs/illustration10.jpg)
-  - Stockage côté client Cookies, Storage, IndexedDB [Tableau 1](docs/illustration11.jpg), [Tableau 2](docs/illustration12.jpg) et [Tableau 3](docs/illustration13.jpg)
-  - Templating [Tableau](docs/illustration14.jpg)
-  - DB [Tableau](docs/illustration15.jpg)
-  - JS async, await, promises [Tableau 1](docs/illustration16.jpg) [Tableau 2](docs/illustration17.jpg)
-  - Sockets [Tableau](docs/illustration18.jpg)
+  - HTTP, state simulation [Tableau 1](docs/Illustration10.jpg)
+  - Stockage côté client Cookies, Storage, IndexedDB [Tableau 1](docs/Illustration11.jpg), [Tableau 2](docs/Illustration12.jpg) et [Tableau 3](docs/Illustration13.jpg)
+  - Templating [Tableau](docs/Illustration14.jpg)
+  - DB [Tableau](docs/Illustration15.jpg)
+  - JS async, await, promises [Tableau 1](docs/Illustration16.jpg) [Tableau 2](docs/Illustration17.jpg)
+  - Sockets [Tableau](docs/Illustration18.jpg)
 
 #### 22 avril: Cours de Maxime Arbisa
   - Prod, docker, container
