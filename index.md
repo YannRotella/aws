@@ -47,15 +47,18 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Sockets [Tableau](docs/Illustration18.jpg)
 
 #### 22 avril: Cours de Maxime Arbisa
-  - Prod, docker, container
-  - engine proxy
-  - autres
+  - Organisation Dev Industriel
+  - Outils et Technos
+  - Error Management (Sentry)
+  - Nginx, Let's Encrypt, SystemD
+  - [Slides](docs/cours_maxime_arbisa.pdf)
 
 #### 6 mai: Sécurité Web: application de la crypto
-  - HTTPS
+  - SSL/TLS
   - Anonymat (Tor)
   - Certificats
   - Fonctions de hachages cryptographiques
+  - Stockage des mots de passe
 
 #### 20 mai: Thomas Rousseau (La crypto ne fait pas tout)
 
@@ -126,6 +129,17 @@ Cette liste sera mise à jour au fur et à mesure du cours.
   - Async JS [W3](https://www.w3schools.com/js/js_async.asp) [Luca's Web course](http://defeo.lu/aws/lessons/async-js#)
   - Promises [1](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Promise) et [2](https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/)
   - [JSON](https://en.wikipedia.org/wiki/JSON)
+  - [Let's Encrypt](https://letsencrypt.org/documents/isrg-cp-v2.6/)
+  - [Jaeger](https://www.scalyr.com/blog/jaeger-tracing-tutorial/)
+  - [Full Story](https://www.fullstory.com/)
+  - [Traefik](https://doc.traefik.io/traefik/)
+  - [PM2](https://pm2.keymetrics.io/)
+  - [HoneyComb](https://www.honeycomb.io/)
+  - [Monitorint](https://codeburst.io/the-best-free-javascript-apm-tools-for-hobbyists-876d3ac16881)
+  - [Supabase](https://supabase.io/)
+  - [Nginx](https://www.nginx.com/)
+  - [Sentry](https://sentry.io/welcome/)
+  - [Supabase]()
 
 ## Groupes
 
