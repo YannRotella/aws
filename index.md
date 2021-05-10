@@ -61,12 +61,12 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Stockage des mots de passe
   - [Slides](docs/coursSecu.pdf)
 
-#### 20 mai: Thomas Rousseau (La crypto ne fait pas tout)
+#### 20 mai: Exceptionnellement à 10h15: Thomas Rousseau (La crypto ne fait pas tout)
 
 
 
-#### Jeudi 27 mai: Journée de soutenances 
-Présentiel ou distanciel en fonction de la situation sanitaire
+#### Jeudi 27 mai (de 10h00 à 17h00): Journée de soutenances 
+Présentiel en Amphi B Descartes
 
 
 
