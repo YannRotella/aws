@@ -53,18 +53,19 @@ TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer
   - Nginx, Let's Encrypt, SystemD
   - [Slides](docs/cours_maxime_arbisa.pdf)
 
-#### 6 mai: Sécurité Web: application de la crypto
+#### 6 mai: Sécurité Web: application de la crypto (en présentiel)
   - SSL/TLS
   - Anonymat (Tor)
   - Certificats
   - Fonctions de hachages cryptographiques
   - Stockage des mots de passe
+  - [Slides](docs/coursSecu.pdf)
 
 #### 20 mai: Thomas Rousseau (La crypto ne fait pas tout)
 
 
 
-#### Lundi 24 mai: Journée de soutenances 
+#### Jeudi 27 mai: Journée de soutenances 
 Présentiel ou distanciel en fonction de la situation sanitaire
 
 
